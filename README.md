@@ -1,2 +1,2 @@
 # Technee Safra Hackathon
- Aplicato para o Hackathon do Banco Safra
+ Aplicativo para o Hackathon do Banco Safra - Time 22
